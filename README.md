@@ -11,3 +11,7 @@ If I'm not infront of a display, I love to be outside and do stuff like:
 - surfing <img src="https://media.giphy.com/media/YfYN9NMSOis59EhwsX/giphy.gif" width="50">
 - skiing <img src="https://media.giphy.com/media/ccO57666u731jtpB4A/giphy.gif" width="50">
 - hiking <img src="https://media.giphy.com/media/Am9IqFgFgWVVHeGhvF/giphy.gif" width="50">
+
+You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=avoesen.visitor-badge&left_color=green&right_color=red). visitor, thanks! 
+
+#let's connect
