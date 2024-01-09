@@ -5,13 +5,13 @@ my name is Anna and I worked as an **architect** in Hamburg, Germany. Last year,
 Today I started my first **bootcamp** @neuefische 
 <img src="https://media.giphy.com/media/RKnKM27RqncSqBl5HR/giphy.gif" width="50">
 
-If I'm not infront of a display, I love to be outside and do stuff like: 
+If I'm not infront of a display, I love to spend time outside and do stuff like: 
 
 - cycling <img src="https://media.giphy.com/media/kW1DSAIXdgwdn3Qr9E/giphy.gif" width="50">
 - surfing <img src="https://media.giphy.com/media/YfYN9NMSOis59EhwsX/giphy.gif" width="50">
 - skiing <img src="https://media.giphy.com/media/ccO57666u731jtpB4A/giphy.gif" width="50">
 - hiking <img src="https://media.giphy.com/media/Am9IqFgFgWVVHeGhvF/giphy.gif" width="50">
 
-You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=avoesen.visitor-badge&left_color=green&right_color=red). visitor on my page, thanks! 
+You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=avoesen.visitor-badge). visitor on my page, thanks! 
 
 #let's connect
