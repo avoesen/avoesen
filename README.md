@@ -12,6 +12,4 @@ If I'm not infront of a display, I love to spend time outside and do stuff like:
 - skiing <img src="https://media.giphy.com/media/ccO57666u731jtpB4A/giphy.gif" width="50">
 - hiking <img src="https://media.giphy.com/media/Am9IqFgFgWVVHeGhvF/giphy.gif" width="50">
 
-You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=avoesen.visitor-badge). visitor on my page, thanks! 
-
 #let's connect
