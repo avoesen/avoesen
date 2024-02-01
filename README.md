@@ -7,9 +7,9 @@ Currently in a **bootcamp** @neuefische to become a web devloper.
 
 If I'm not infront of a display, I love to spend time outside and do stuff like: 
 
-- cycling <img src="https://media.giphy.com/media/kW1DSAIXdgwdn3Qr9E/giphy.gif" height="50">
-- surfing <img src="https://media.giphy.com/media/YfYN9NMSOis59EhwsX/giphy.gif" height="50">
-- skiing <img src="https://media.giphy.com/media/ccO57666u731jtpB4A/giphy.gif" height="50">
-- hiking <img src="https://media.giphy.com/media/Am9IqFgFgWVVHeGhvF/giphy.gif" height="50">
+- cycling 
+- surfing 
+- skiing 
+- hiking
 
 #let's connect
